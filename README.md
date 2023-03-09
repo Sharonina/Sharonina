@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Sharon Arana ✨</h1>
+<h1>Hello there! I'm Sharon ✨</h1>
 
 <p align='center'>
   As a former graphic designer turned front end developer, I bring a unique perspective and set of skills to the table. My background in design has given me an eye for aesthetics and user experience, which I apply to my work in front end development.
