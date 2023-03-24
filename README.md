@@ -21,15 +21,18 @@
   <img src="https://img.shields.io/badge/css3%20-%232496ED.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23FFCB2D.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2361DAFF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js%20-%23000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jest%20-%2399425B.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23000.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/express%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23016B93.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/stylus%20-%23cc6786.svg?&style=for-the-badge&logo=stylus&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss%20-%232496ED.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/figma%20-%23764ABC.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Adobe XD%20-%23cc3099.svg?&style=for-the-badge&logo=AdobeXD&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%2358aa80.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase%20-%23FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
 </p>
 
